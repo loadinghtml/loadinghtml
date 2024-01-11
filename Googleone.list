@@ -1,5 +1,5 @@
-  - DST-PORT,22,🚀 节点选择
-  - IP-CIDR,136.22.0.0/16,🧸 Googleone
-  - DOMAIN,connectivitycheck.gstatic.com,🧸 Googleone
-  - DOMAIN-SUFFIX,cloud.cupronickel.goog,🧸 Googleone
-  - DOMAIN-SUFFIX,googleapis.com,🧸 Googleone
+  - DST-PORT,22
+  - IP-CIDR,136.22.0.0/16
+  - DOMAIN,connectivitycheck.gstatic.com
+  - DOMAIN-SUFFIX,cloud.cupronickel.goog
+  - DOMAIN-SUFFIX,googleapis.com
