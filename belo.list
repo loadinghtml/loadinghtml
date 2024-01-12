@@ -1,3 +1,4 @@
-  - DOMAIN-SUFFIX,belo.app
+payload:
+- DOMAIN-SUFFIX,belo.app
   - DOMAIN-KEYWORD,belo
   - GEOIP,AR
