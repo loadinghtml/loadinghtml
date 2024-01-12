@@ -1,5 +1,5 @@
 payload:
-- DOMAIN-SUFFIX,papara.com
+  - DOMAIN-SUFFIX,papara.com
   - DOMAIN-KEYWORD,papara
   - GEOIP,TR
   - DOMAIN-SUFFIX,com.tr
