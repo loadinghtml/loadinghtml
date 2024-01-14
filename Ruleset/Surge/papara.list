@@ -1,4 +1,4 @@
 DOMAIN-SUFFIX,papara.com
 DOMAIN-KEYWORD,papara
-GEOIP,TR
+GEOIP,TR,no-resolve
 DOMAIN-SUFFIX,com.tr
