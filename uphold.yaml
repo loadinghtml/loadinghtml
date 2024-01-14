@@ -1,1 +1,4 @@
-
+payload:
+  - DOMAIN-SUFFIX,uphold.com
+  - DOMAIN-KEYWORD,uphold
+#  - GEOIP,UK
