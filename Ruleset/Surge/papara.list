@@ -1,6 +1,8 @@
 DOMAIN-SUFFIX,papara.com
 DOMAIN-KEYWORD,papara
-GEOIP,TR,no-resolve
-DOMAIN-SUFFIX,com.tr
 DOMAIN-SUFFIX,ozan.com
 DOMAIN-KEYWORD,ozan
+DOMAIN-SUFFIX,fups.com
+DOMAIN-KEYWORD,fups
+GEOIP,TR,no-resolve
+DOMAIN-SUFFIX,com.tr
