@@ -5,5 +5,4 @@ payload:
   - DOMAIN-KEYWORD,ozan
   - DOMAIN-SUFFIX,fups.com
   - DOMAIN-KEYWORD,fups
-  - GEOIP,TR
   - DOMAIN-SUFFIX,com.tr
