@@ -3,3 +3,6 @@ payload:
   - DOMAIN-KEYWORD,chippercash
   - DOMAIN-SUFFIX,klasha.com
   - DOMAIN-KEYWORD,klasha
+  - DOMAIN-SUFFIX,mypaga.com
+  - DOMAIN-KEYWORD,paga
+  - DOMAIN-KEYWORD,mypaga
