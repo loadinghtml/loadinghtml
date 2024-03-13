@@ -1,4 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,uphold.com
   - DOMAIN-KEYWORD,uphold
+  - DOMAIN-SUFFIX,trading212.com
+  - DOMAIN-KEYWORD,trading212
 #  - GEOIP,UK
