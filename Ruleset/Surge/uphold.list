@@ -2,4 +2,9 @@ DOMAIN-SUFFIX,uphold.com
 DOMAIN-KEYWORD,uphold
 DOMAIN-SUFFIX,trading212.com
 DOMAIN-KEYWORD,trading212
+DOMAIN-SUFFIX,monzo.com
+DOMAIN-SUFFIX,monzo-alt.net
+DOMAIN-KEYWORD,monzo
+#DOMAIN,internal-api.monzo.com
+#DOMAIN,api.sta.monzo-alt.net
 #GEOIP,UK
