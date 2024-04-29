@@ -1,5 +1,5 @@
 DEST-PORT,22
 IP-CIDR,136.22.0.0/16,no-resolve
 DOMAIN,connectivitycheck.gstatic.com
-DOMAIN,cloud.cupronickel.goog
+DOMAIN-SUFFIX,cloud.cupronickel.goog
 DOMAIN-SUFFIX,googleapis.com
