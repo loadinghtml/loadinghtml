@@ -4,3 +4,4 @@ payload:
   - DOMAIN,connectivitycheck.gstatic.com
   - DOMAIN-SUFFIX,cloud.cupronickel.goog
   - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,emby.wtf
