@@ -7,4 +7,5 @@ DOMAIN-SUFFIX,monzo-alt.net
 DOMAIN-KEYWORD,monzo
 DOMAIN,internal-api.monzo.com
 DOMAIN,api.sta.monzo-alt.net
+DOMAIN,ls.apple.com
 #GEOIP,UK
