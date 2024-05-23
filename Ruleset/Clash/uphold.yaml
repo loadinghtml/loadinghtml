@@ -10,4 +10,6 @@ payload:
   - DOMAIN-KEYWORD,totallymoney  
   - DOMAIN,internal-api.monzo.com
   - DOMAIN,api.sta.monzo-alt.net
+  - DOMAIN-SUFFIX,chase.co.uk
+  - DOMAIN-KEYWORD,chase
 #  - GEOIP,UK
