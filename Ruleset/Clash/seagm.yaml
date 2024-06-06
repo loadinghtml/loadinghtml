@@ -1,3 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,seagm.com
   - DOMAIN-KEYWORD,seagm
+  - DOMAIN-KEYWORD,maybank
+  - DOMAIN-SUFFIX,maybank2u.com.my
+  - DOMAIN-SUFFIX,maybanksandbox.com
