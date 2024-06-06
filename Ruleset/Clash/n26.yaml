@@ -14,3 +14,7 @@ payload:
   - DOMAIN-SUFFIX,bybit.org
   - DOMAIN-SUFFIX,bybit.org
   - DOMAIN-SUFFIX,bybit.cloud
+  - DOMAIN-KEYWORD,fiat24
+  - DOMAIN-SUFFIX,fiat24.com
+#  - DOMAIN-KEYWORD,safepal
+#  - DOMAIN-SUFFIX,isafepal.com
