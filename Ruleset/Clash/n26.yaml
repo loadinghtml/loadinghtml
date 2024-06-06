@@ -9,5 +9,8 @@ payload:
   - DOMAIN-KEYWORD,coinbase
   - DOMAIN-SUFFIX,westernunion.com
   - DOMAIN-KEYWORD,westernunion
-  - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-KEYWORD,bybit
+  - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,bybit.org
+  - DOMAIN-SUFFIX,bybit.org
+  - DOMAIN-SUFFIX,bybit.cloud
