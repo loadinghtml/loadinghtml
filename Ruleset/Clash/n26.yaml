@@ -18,3 +18,6 @@ payload:
   - DOMAIN-SUFFIX,fiat24.com
   - DOMAIN-KEYWORD,safepal
   - DOMAIN-SUFFIX,isafepal.com
+  - DOMAIN-SUFFIX,curve.com
+  - DOMAIN-SUFFIX,curve.app
+  - DOMAIN-KEYWORD,curve
