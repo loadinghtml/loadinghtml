@@ -10,4 +10,6 @@ DOMAIN,api.sta.monzo-alt.net
 DOMAIN-SUFFIX,chase.co.uk
 DOMAIN-KEYWORD,chase
 DOMAIN,ls.apple.com
+DOMAIN-SUFFIX,lopay.com
+DOMAIN-KEYWORD,lopay
 #GEOIP,UK
