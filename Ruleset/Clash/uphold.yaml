@@ -12,4 +12,6 @@ payload:
   - DOMAIN,api.sta.monzo-alt.net
   - DOMAIN-SUFFIX,chase.co.uk
   - DOMAIN-KEYWORD,chase
+  - DOMAIN-SUFFIX,wuzo.co.uk
+  - DOMAIN-KEYWORD,wuzo
 #  - GEOIP,UK
