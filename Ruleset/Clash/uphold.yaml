@@ -14,6 +14,8 @@ payload:
   - DOMAIN-KEYWORD,chase
   - DOMAIN-SUFFIX,wuzo.co.uk
   - DOMAIN-KEYWORD,wuzo
-  - DOMAIN-SUFFIX,lopay.com
-  - DOMAIN-KEYWORD,lopay
+  - DOMAIN-SUFFIX,lemfi.com
+  - DOMAIN-KEYWORD,lemfi
+  - DOMAIN-SUFFIX,paysend.com
+  - DOMAIN-KEYWORD,paysend
 #  - GEOIP,UK
