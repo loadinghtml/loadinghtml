@@ -1,1 +1,4 @@
-
+payload:
+  - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,pikpak.me
+  - DOMAIN-KEYWORD,pikpak
