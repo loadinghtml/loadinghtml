@@ -8,24 +8,28 @@ payload:
   - DOMAIN,ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
   - DOMAIN,entsrv-uk.vodafone.com
   - DOMAIN,vuk-gto.prod.ondemandconnectivity.com
-  - IP-CIDR,88.82.0.0/19
+  - IP-CIDR,88.82.11.0/24
+  - IP-CIDR,148.252.188.0/24
 
 # CMLinkUK EE
   - IP-CIDR,46.68.0.0/17
   
 # Giffgaff
+  - DOMAIN,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
   - IP-CIDR,87.194.0.0/16
-
+  
 # clubsim
   - DOMAIN,csl.prod.ondemandconnectivity.com
   - DOMAIN,gspe1-ssl.ls.apple.com
 
 # xox
   - DOMAIN,epdg.epc.mnc019.mcc502.pub.3gppnetwork.org
-  - DOMAIN,epdg.epc.mnc019.mcc502.pub.3gppnetwork.org
+  - IP-CIDR,183.171.0.0/24
 
 # three.co.uk
   - DOMAIN,epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
+  - IP-CIDR,185.153.237.0/24
 
 # vodafone de
   - DOMAIN,epdg.epc.mnc002.mcc262.pub.3gppnetwork.org
+  - IP-CIDR,139.7.117.0/24
