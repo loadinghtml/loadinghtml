@@ -4,6 +4,10 @@ payload:
   
 # vodafone uk
   - DOMAIN,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+  - DOMAIN,ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+  - DOMAIN,ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
+  - DOMAIN,entsrv-uk.vodafone.com
+  - DOMAIN,vuk-gto.prod.ondemandconnectivity.com
   - IP-CIDR,88.82.11.0/24
   - IP-CIDR,148.252.188.0/24
 
@@ -15,7 +19,12 @@ payload:
   
 # clubsim
   - DOMAIN,csl.prod.ondemandconnectivity.com
-  - DOMAIN,gspe1-ssl.ls.apple.com
+  - DOMAIN,hhk.prod.ondemandconnectivity.com
+  - DOMAIN,hhk.prod.ondemandconnectivity.com
+  - DOMAIN,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+  - DOMAIN,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+  - DOMAIN,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
+
 
 # xox
   - DOMAIN,epdg.epc.mnc019.mcc502.pub.3gppnetwork.org
