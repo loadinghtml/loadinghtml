@@ -2,17 +2,13 @@ payload:
 # 地区检测
   - DOMAIN,gspe1-ssl.ls.apple.com
   
-# vodafone uk
+# vodafone uk Giffgaff
   - DOMAIN,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
   - IP-CIDR,88.82.11.0/24
   - IP-CIDR,148.252.188.0/24
 
 # CMLinkUK EE
   - IP-CIDR,46.68.0.0/17
-  
-# Giffgaff
-  - DOMAIN,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
-  - IP-CIDR,87.194.0.0/16
   
 # clubsim
   - DOMAIN,csl.prod.ondemandconnectivity.com
