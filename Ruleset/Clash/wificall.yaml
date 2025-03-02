@@ -2,7 +2,7 @@ payload:
 # 地区检测
   - DOMAIN,gspe1-ssl.ls.apple.com
   
-# 沃达丰
+# vodafone uk
   - DOMAIN,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
   - DOMAIN,ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
   - DOMAIN,ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
@@ -26,3 +26,6 @@ payload:
 
 # three.co.uk
   - DOMAIN,epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
+
+# vodafone de
+  - DOMAIN,epdg.epc.mnc002.mcc262.pub.3gppnetwork.org
