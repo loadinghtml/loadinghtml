@@ -12,6 +12,7 @@ payload:
 
 # CMLinkUK EE
   - IP-CIDR,46.68.0.0/17
+  
 # Giffgaff
   - IP-CIDR,87.194.0.0/16
 
@@ -22,3 +23,6 @@ payload:
 # xox
   - DOMAIN,epdg.epc.mnc019.mcc502.pub.3gppnetwork.org
   - DOMAIN,epdg.epc.mnc019.mcc502.pub.3gppnetwork.org
+
+# three.co.uk
+  - DOMAIN,epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
