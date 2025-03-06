@@ -1,11 +1,6 @@
 payload:
 
 # OKX
-  - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
-  - DOMAIN-SUFFIX,okex.com
-  - DOMAIN-SUFFIX,oklink.com
-  - DOMAIN-SUFFIX,okx.com
-  - DOMAIN-KEYWORD,okx
   - DOMAIN,d1a9ug9i3w9ke0.cloudfront.net
   - DOMAIN,d2tbe9c16nz8ju.cloudfront.net
   - DOMAIN,okg.threatcast.guardsquare.com
@@ -15,6 +10,11 @@ payload:
   - DOMAIN,api.amplitudeexperiment.com
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,aaa.online-metrix.net
+  - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,oklink.com
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-KEYWORD,okx
 
 # Binance - 2025.01.27
 
