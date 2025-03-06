@@ -1,6 +1,8 @@
 payload:
 
 # OKX
+  - DOMAIN,dxuh04drr7qsj.cloudfront.net
+  - DOMAIN,d2rrdkt5t2txly.cloudfront.net
   - DOMAIN,d1a9ug9i3w9ke0.cloudfront.net
   - DOMAIN,d2tbe9c16nz8ju.cloudfront.net
   - DOMAIN,okg.threatcast.guardsquare.com
