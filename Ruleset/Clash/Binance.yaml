@@ -1,6 +1,8 @@
 payload:
 
 # OKX
+  - DOMAIN,h64.online-metrix.net
+  - DOMAIN,eu-aa.online-metrix.net
   - DOMAIN,dxuh04drr7qsj.cloudfront.net
   - DOMAIN,d2rrdkt5t2txly.cloudfront.net
   - DOMAIN,d1a9ug9i3w9ke0.cloudfront.net
@@ -62,6 +64,9 @@ payload:
   - DOMAIN,www.yingwangtech.mobi
   - DOMAIN,www.yingwangtech.club
   - DOMAIN,www.yingwangtech.cc
+  - IP-CIDR,47.242.92.56/32
+  - IP-CIDR,8.210.73.205/32
+  - IP-CIDR,35.201.110.144/32
 
 # Related Domains
   - DOMAIN,m.api.forter.com
