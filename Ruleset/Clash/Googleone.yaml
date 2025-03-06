@@ -1,5 +1,4 @@
 payload:
-  - DST-PORT,22
   - IP-CIDR,136.22.0.0/16
   - DOMAIN,connectivitycheck.gstatic.com
   - DOMAIN-SUFFIX,cloud.cupronickel.goog
