@@ -11,10 +11,10 @@ payload:
   - DOMAIN,d2rrdkt5t2txly.cloudfront.net
   - DOMAIN,d1a9ug9i3w9ke0.cloudfront.net
   - DOMAIN,d2tbe9c16nz8ju.cloudfront.net
-  - DOMAIN,okg.threatcast.guardsquare.com
-  - DOMAIN,in.appcenter.ms
-  - DOMAIN,contendvc.cnouyi.pizza
-  - DOMAIN,cloudauth-device.ap-southeast-1.aliyuncs.com
+#  - DOMAIN,okg.threatcast.guardsquare.com
+#  - DOMAIN,in.appcenter.ms
+#  - DOMAIN,contendvc.cnouyi.pizza
+#  - DOMAIN,cloudauth-device.ap-southeast-1.aliyuncs.com
   - DOMAIN,api.amplitudeexperiment.com
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,aaa.online-metrix.net
@@ -23,6 +23,11 @@ payload:
   - DOMAIN-SUFFIX,oklink.com
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-KEYWORD,okx
+  - IP-CIDR,47.242.92.56/32
+  - IP-CIDR,8.210.73.205/32
+  - IP-CIDR,35.201.110.144/32
+  - IP-CIDR,8.212.43.229/32
+  - IP-CIDR,8.212.1.102/32
 
 # Binance - 2025.01.27
 
@@ -68,9 +73,6 @@ payload:
   - DOMAIN,www.yingwangtech.mobi
   - DOMAIN,www.yingwangtech.club
   - DOMAIN,www.yingwangtech.cc
-  - IP-CIDR,47.242.92.56/32
-  - IP-CIDR,8.210.73.205/32
-  - IP-CIDR,35.201.110.144/32
 
 # Related Domains
   - DOMAIN,m.api.forter.com
