@@ -4,8 +4,6 @@ payload:
   - DOMAIN,contentmx.okcoin.com
   - DOMAIN,aa.online-metrix.net
   - DOMAIN,9kqz9786ca4mgkqln2evr4e54ntqzxkfrffrivzsb8de3e83a35bc3c0sac.d.aa.online-metrix.net
-  - DOMAIN,www.gihiji.com.eo.dnse4.com
-  - DOMAIN,wspri.gihiji.com.eo.dnse4.com
   - DOMAIN,h.online-metrix.net
   - DOMAIN,h64.online-metrix.net
   - DOMAIN,eu-aa.online-metrix.net
@@ -13,7 +11,6 @@ payload:
   - DOMAIN,d2rrdkt5t2txly.cloudfront.net
   - DOMAIN,d1a9ug9i3w9ke0.cloudfront.net
   - DOMAIN,d2tbe9c16nz8ju.cloudfront.net
-  - DOMAIN,okg.threatcast.guardsquare.com
   - DOMAIN,in.appcenter.ms
   - DOMAIN,contendvc.cnouyi.pizza
   - DOMAIN,cloudauth-device.ap-southeast-1.aliyuncs.com
