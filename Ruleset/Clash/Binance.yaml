@@ -15,7 +15,7 @@ payload:
 #  - DOMAIN,okg.threatcast.guardsquare.com
   - DOMAIN,in.appcenter.ms
 #  - DOMAIN,contendvc.cnouyi.pizza
-#  - DOMAIN,cloudauth-device.ap-southeast-1.aliyuncs.com
+  - DOMAIN,cloudauth-device.ap-southeast-1.aliyuncs.com
   - DOMAIN,api.amplitudeexperiment.com
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,aaa.online-metrix.net
