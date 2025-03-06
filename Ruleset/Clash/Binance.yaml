@@ -1,6 +1,10 @@
 payload:
 
 # OKX
+  - DOMAIN,contentmx.okcoin.com
+  - DOMAIN,aa.online-metrix.net
+  - DOMAIN,9kqz9786ca4mgkqln2evr4e54ntqzxkfrffrivzsb8de3e83a35bc3c0sac.d.aa.online-metrix.net
+  - DOMAIN,h.online-metrix.net
   - DOMAIN,h64.online-metrix.net
   - DOMAIN,eu-aa.online-metrix.net
   - DOMAIN,dxuh04drr7qsj.cloudfront.net
