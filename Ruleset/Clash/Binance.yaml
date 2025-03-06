@@ -6,6 +6,15 @@ payload:
   - DOMAIN-SUFFIX,oklink.com
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-KEYWORD,okx
+  - DOMAIN,d1a9ug9i3w9ke0.cloudfront.net
+  - DOMAIN,d2tbe9c16nz8ju.cloudfront.net
+  - DOMAIN,okg.threatcast.guardsquare.com
+  - DOMAIN,in.appcenter.ms
+  - DOMAIN,contendvc.cnouyi.pizza
+  - DOMAIN,cloudauth-device.ap-southeast-1.aliyuncs.com
+  - DOMAIN,api.amplitudeexperiment.com
+  - DOMAIN,alt1-mtalk.google.com
+  - DOMAIN,aaa.online-metrix.net
 
 # Binance - 2025.01.27
 
