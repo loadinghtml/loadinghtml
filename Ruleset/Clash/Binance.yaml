@@ -14,7 +14,12 @@ payload:
   - DOMAIN,in.appcenter.ms
   - DOMAIN,contendvc.cnouyi.pizza
   - DOMAIN,cloudauth-device.ap-southeast-1.aliyuncs.com
-  - DOMAIN,api.amplitudeexperiment.com
+  - DOMAIN,r2oaa1-launches.appsflyersdk.com
+  - DOMAIN,r2oaa1-register.appsflyersdk.com
+  - DOMAIN,wsdexpri.gihiji.com.eo.dnse4.com
+  - DOMAIN,www.gihiji.com.eo.dnse4.com
+  - DOMAIN,www.okx-dns.com
+  - DOMAIN,www.okx-dns1.com
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,aaa.online-metrix.net
   - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
