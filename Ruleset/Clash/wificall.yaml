@@ -37,3 +37,8 @@ payload:
 # vodafone de
   - DOMAIN,epdg.epc.mnc002.mcc262.pub.3gppnetwork.org
   - IP-CIDR,139.7.117.0/24
+
+# lebara ch
+  - DOMAIN,epdg.epc.mnc002.mcc228.pub.3gppnetwork.org
+  - IP-CIDR,194.230.147.0/24
+
