@@ -4,5 +4,6 @@ payload:
   - DOMAIN-SUFFIX,klasha.com
   - DOMAIN-KEYWORD,klasha
   - DOMAIN-SUFFIX,mypaga.com
-  - DOMAIN-KEYWORD,mypaga
   - DOMAIN-KEYWORD,paga
+  - DOMAIN-SUFFIX,kuda.com
+  - DOMAIN-KEYWORD,kuda
