@@ -13,10 +13,10 @@ payload:
 
 # Giffgaff
   - DOMAIN,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org
-  - IP-CIDR,87.194.0.0/24
+  - IP-CIDR,87.194.0.0/16
   
 # CMLinkUK EE
-  - IP-CIDR,46.68.0.0/17
+  - IP-CIDR,46.68.0.0/16
   
 # clubsim
   - DOMAIN,csl.prod.ondemandconnectivity.com
@@ -29,7 +29,7 @@ payload:
 
 # xox
   - DOMAIN,epdg.epc.mnc019.mcc502.pub.3gppnetwork.org
-  - IP-CIDR,183.171.0.0/24
+  - IP-CIDR,183.171.0.0/16
 
 # three.co.uk
   - DOMAIN,epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
