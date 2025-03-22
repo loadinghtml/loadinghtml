@@ -12,6 +12,8 @@ payload:
   - IP-CIDR,148.252.188.0/24
 
 # Giffgaff
+  - DOMAIN,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org
+  - IP-CIDR,87.194.89.0/24
   - IP-CIDR,87.194.88.0/24
 
 # CMLinkUK EE
