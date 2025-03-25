@@ -33,6 +33,8 @@ payload:
 
 # three.co.uk
   - DOMAIN,epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
+  - DOMAIN,huk.prod.ondemandconnectivity.com
+  - DOMAIN,esim-es-open-prod-tuk.esimcloud.net
   - IP-CIDR,185.153.237.0/24
 
 # vodafone de
