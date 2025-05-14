@@ -1,6 +1,11 @@
 payload:
 
 # OKX
+  - DOMAIN-KEYWORD,okx
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,oklink.com
   - DOMAIN,contentmx.okcoin.com
   - DOMAIN,aa.online-metrix.net
   - DOMAIN,9kqz9786ca4mgkqln2evr4e54ntqzxkfrffrivzsb8de3e83a35bc3c0sac.d.aa.online-metrix.net
@@ -22,11 +27,6 @@ payload:
   - DOMAIN,www.okx-dns1.com
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,aaa.online-metrix.net
-  - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
-  - DOMAIN-SUFFIX,okex.com
-  - DOMAIN-SUFFIX,oklink.com
-  - DOMAIN-SUFFIX,okx.com
-  - DOMAIN-KEYWORD,okx
   - IP-CIDR,47.242.92.56/32
   - IP-CIDR,8.210.73.205/32
   - IP-CIDR,35.201.110.144/32
