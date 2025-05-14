@@ -1,9 +1,8 @@
 payload:
-
 # OKX
-  - DOMAIN-KEYWORD,okx
-  - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,oklink.com
+  - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,oklink.com
   - DOMAIN,contentmx.okcoin.com
