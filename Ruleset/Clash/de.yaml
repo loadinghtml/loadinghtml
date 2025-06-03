@@ -21,6 +21,3 @@ payload:
   - DOMAIN-SUFFIX,curve.com
   - DOMAIN-SUFFIX,curve.app
   - DOMAIN-KEYWORD,curve
-  - DOMAIN-SUFFIX,ionos.de
-  - DOMAIN-SUFFIX,ionos.com
-  - DOMAIN-KEYWORD,ionos
