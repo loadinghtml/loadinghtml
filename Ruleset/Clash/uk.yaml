@@ -20,4 +20,5 @@ payload:
   - DOMAIN-KEYWORD,paysend
   - DOMAIN-SUFFIX,yondercard.com
   - DOMAIN-KEYWORD,yondercard
+  - DOMAIN-KEYWORD,yonder
 #  - GEOIP,UK
