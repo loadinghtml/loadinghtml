@@ -18,4 +18,6 @@ payload:
   - DOMAIN-KEYWORD,lemfi
   - DOMAIN-SUFFIX,paysend.com
   - DOMAIN-KEYWORD,paysend
+  - DOMAIN-SUFFIX,yondercard.com
+  - DOMAIN-KEYWORD,yondercard
 #  - GEOIP,UK
