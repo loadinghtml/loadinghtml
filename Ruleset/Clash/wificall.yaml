@@ -3,7 +3,7 @@ payload:
   - DOMAIN,gspe1-ssl.ls.apple.com
   
 #端口代理
-  - AND,((GEOIP,US),(AND,((NETWORK,UDP),(OR,((DST-PORT,50O/450O)))))
+  - AND,((GEOIP,US),(AND,((NETWORK,UDP))),(OR,((DST-PORT,500),(DST-PORT,4500))))
 
 #美国SIM卡Wi-Fi Calling配置规则
   - DOMAIN-SUFFIX,crl.t-mobile.com
