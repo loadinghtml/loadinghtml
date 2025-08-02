@@ -3,19 +3,19 @@ payload:
   - DOMAIN,gspe1-ssl.ls.apple.com
   
 #端口代理
-#  - AND,((GEOIP,US),(AND,((NETWORK,UDP))),(OR,((DST-PORT,500),(DST-PORT,4500))))
+  - AND,((GEOIP,US),(AND,((NETWORK,UDP))),(OR,((DST-PORT,500),(DST-PORT,4500))))
 
 #美国SIM卡Wi-Fi Calling配置规则
-  - DOMAIN-SUFFIX,crl.t-mobile.com
-  - DOMAIN-SUFFIX,depdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-  - DOMAIN-SUFFIX,eas3.msg.t-mobile.com
-  - DOMAIN-SUFFIX,epdg. epc.mnc240.mcc310.pub.3gppnetwork.org
-#  - DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-  - DOMAIN-SUFFIX,mascns.t-mobile.com
-  - DOMAIN-SUFFIX,ns.sipgeo.t-mobile.com
+  - DOMAIN,crl.t-mobile.com
+  - DOMAIN,depdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+  - DOMAIN,eas3.msg.t-mobile.com
+  - DOMAIN,epdg. epc.mnc240.mcc310.pub.3gppnetwork.org
+#  - DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+  - DOMAIN,mascns.t-mobile.com
+  - DOMAIN,ns.sipgeo.t-mobile.com
   - DOMAIN-SUFFIX,optimizely.com
-  - DOMAIN-SUFFIX,redirect.ultra.me
-  - DOMAIN-SUFFIX,epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+  - DOMAIN,redirect.ultra.me
+  - DOMAIN,epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,ultramobile.com
   - DOMAIN-KEYWORD,t-mobile
   - DOMAIN-KEYWORD,ultramobile
@@ -25,23 +25,23 @@ payload:
   
 #英国SIM卡Wi-Fi Calling配置规则
 # 沃达丰
-  - DOMAIN-SUFFIX,entsrv-uk.vodafone.com
-  - DOMAIN-SUFFIX,epdg.epc.mncO15.mcc234.pub.3gppnetwork.org
-  - DOMAIN-SUFFIX,epdg.epc.geo.mncO15.mcc234.pub.3gppnetwork.org
-  - DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
+  - DOMAIN,entsrv-uk.vodafone.com
+  - DOMAIN,epdg.epc.mncO15.mcc234.pub.3gppnetwork.org
+  - DOMAIN,epdg.epc.geo.mncO15.mcc234.pub.3gppnetwork.org
+  - DOMAIN,vuk-gto.prod.ondemandconnectivity.com
   - IP-CIDR,88.82.0.0/19
 # CMLink UK EE
   - IP-CIDR,46.68.0.0/17
 # Giffgaff
   - DOMAIN-SUFFIX,giffgaff.com
-  - DOMAIN-SUFFIX,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org
+  - DOMAIN,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org
   - IP-CIDR,87.194.0.0/16
 #3UK
-  - DOMAIN-SUFFIX,epdg.epc.mncO20.mcc234.pub.3gppnetwork.org
+  - DOMAIN,epdg.epc.mncO20.mcc234.pub.3gppnetwork.org
   
 #香港SIM卡 Wi-Fi Calling 配置规则
-  - DOMAIN-SUFFIX,wlan.three.com.hk
-  - DOMAIN-SUFFIX,epdg.epc.mncO00.mcc454.pub.3gppnetwork.org
+  - DOMAIN,wlan.three.com.hk
+  - DOMAIN,epdg.epc.mncO00.mcc454.pub.3gppnetwork.org
 
 # xox
   - DOMAIN,epdg.epc.mnc019.mcc502.pub.3gppnetwork.org
