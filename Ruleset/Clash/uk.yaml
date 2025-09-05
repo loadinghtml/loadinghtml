@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,paysend.com
   - DOMAIN-KEYWORD,paysend
   - DOMAIN-SUFFIX,yondercard.com
-  - DOMAIN-KEYWORD,yondercard
   - DOMAIN-KEYWORD,yonder
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-KEYWORD,stripe
 #  - GEOIP,UK
