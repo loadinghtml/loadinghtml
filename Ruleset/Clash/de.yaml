@@ -12,7 +12,6 @@ payload:
   - DOMAIN-KEYWORD,bybit
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,bybit.org
-  - DOMAIN-SUFFIX,bybit.org
   - DOMAIN-SUFFIX,bybit.cloud
   - DOMAIN-KEYWORD,fiat24
   - DOMAIN-SUFFIX,fiat24.com
