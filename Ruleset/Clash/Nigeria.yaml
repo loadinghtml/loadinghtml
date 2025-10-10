@@ -7,3 +7,5 @@ payload:
   - DOMAIN-KEYWORD,paga
   - DOMAIN-SUFFIX,kuda.com
   - DOMAIN-KEYWORD,kuda
+  - DOMAIN-KEYWORD,gomoney
+  - DOMAIN-KEYWORD,zoho
