@@ -23,3 +23,5 @@ payload:
   - DOMAIN-SUFFIX,myfin.bg
   - DOMAIN-KEYWORD,myfin
   - DOMAIN-KEYWORD,bitkeep
+  - DOMAIN-SUFFIX,dtcpay.com
+  - DOMAIN-KEYWORD,dtcpay
