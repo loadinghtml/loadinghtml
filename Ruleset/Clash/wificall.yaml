@@ -29,6 +29,8 @@ payload:
 # xox
   - DOMAIN,epdg.epc.mnc019.mcc502.pub.3gppnetwork.org
   - IP-CIDR,183.171.0.0/16
+  - DOMAIN,epdg.epc.mnc012.mcc502.pub.3gppnetwork.org
+  - IP-CIDR,202.75.146.0/16
 
 # three.co.uk
   - DOMAIN,epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
