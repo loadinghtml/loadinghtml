@@ -1,6 +1,22 @@
 payload:
   # NAME: OKX
-  - DOMAIN-REGEX,*.*okx*.*
+  - DOMAIN-SUFFIX,api.amplitudeexperiment.com
+  - DOMAIN-SUFFIX,api.onesignal.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,cnouyi.pizza
+  - DOMAIN-SUFFIX,coinall.ltd
+  - DOMAIN-SUFFIX,d1w1p0smpsoh5j.cloudfront.net
+  - DOMAIN-SUFFIX,firebase-settings.crashlytics.com
+  - DOMAIN-SUFFIX,geetest.com
+  - DOMAIN-SUFFIX,in.appcenter.ms
+  - DOMAIN-SUFFIX,kjmte.com
+  - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,oklink.com
+  - DOMAIN-SUFFIX,okx-dns.com
+  - DOMAIN-SUFFIX,okx-dns1.com
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+  - DOMAIN-KEYWORD,liuyimin4
 
   # NAME: Binance
   - DOMAIN-SUFFIX,binance.com
