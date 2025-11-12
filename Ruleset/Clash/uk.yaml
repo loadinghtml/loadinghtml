@@ -22,4 +22,7 @@ payload:
   - DOMAIN-KEYWORD,yonder
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-KEYWORD,stripe
+  - DOMAIN-SUFFIX,curve.com
+  - DOMAIN-SUFFIX,curve.app
+  - DOMAIN-KEYWORD,curve
 #  - GEOIP,UK
