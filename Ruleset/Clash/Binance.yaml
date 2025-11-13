@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
   - DOMAIN-KEYWORD,liuyimin4
+  - DOMAIN-KEYWORD,okx
 
   # NAME: Binance
   - DOMAIN-SUFFIX,binance.com
@@ -31,3 +32,4 @@ payload:
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,saasexch.cc
   - DOMAIN-SUFFIX,saasexch.com
+  - DOMAIN-KEYWORD,binance
