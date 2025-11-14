@@ -1,6 +1,6 @@
 payload:
 # 地区检测
-  - DOMAIN,gspe1-ssl.ls.apple.com
+  - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
   
 # vodafone uk
   - DOMAIN,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
@@ -26,9 +26,7 @@ payload:
   - DOMAIN,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
 
 
-# xox
-  - DOMAIN,epdg.epc.mnc019.mcc502.pub.3gppnetwork.org
-  - IP-CIDR,183.171.0.0/16
+# hotlink
   - DOMAIN,epdg.epc.mnc012.mcc502.pub.3gppnetwork.org
   - IP-CIDR,202.75.146.0/16
 
