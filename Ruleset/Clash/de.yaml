@@ -19,3 +19,6 @@ payload:
   - DOMAIN-KEYWORD,bitkeep
   - DOMAIN-SUFFIX,dtcpay.com
   - DOMAIN-KEYWORD,dtcpay
+  - DOMAIN-SUFFIX,bitapi.vip
+  - DOMAIN-SUFFIX,bitkeep.com
+  - DOMAIN-KEYWORD,bitget
