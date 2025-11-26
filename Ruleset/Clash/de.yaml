@@ -22,3 +22,5 @@ payload:
   - DOMAIN-SUFFIX,bitapi.vip
   - DOMAIN-SUFFIX,bitkeep.com
   - DOMAIN-KEYWORD,bitget
+  - DOMAIN-SUFFIX,getcino.com
+  - DOMAIN-KEYWORD,cino
