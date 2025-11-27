@@ -13,7 +13,7 @@ payload:
   - DOMAIN-KEYWORD,fiat24
   - DOMAIN-SUFFIX,fiat24.com
   - DOMAIN-KEYWORD,safepal
-  - DOMAIN-SUFFIX,isafepal.com
+  - DOMAIN-SUFFIX,safepal.com
   - DOMAIN-SUFFIX,myfin.bg
   - DOMAIN-KEYWORD,myfin
   - DOMAIN-KEYWORD,bitkeep
@@ -24,4 +24,6 @@ payload:
   - DOMAIN-KEYWORD,bitget
   - DOMAIN-SUFFIX,getcino.com
   - DOMAIN-KEYWORD,cino
- - DOMAIN-SUFFIX,wechat.com
+  - DOMAIN-SUFFIX,wechat.com
+  - DOMAIN-SUFFIX,ether.fi
+  - DOMAIN-KEYWORD,ether
