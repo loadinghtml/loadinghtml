@@ -27,3 +27,5 @@ payload:
   - DOMAIN-SUFFIX,wechat.com
   - DOMAIN-SUFFIX,ether.fi
   - DOMAIN-KEYWORD,ether
+  - DOMAIN-SUFFIX,pionex.com
+  - DOMAIN-KEYWORD,pionex
