@@ -25,4 +25,6 @@ payload:
   - DOMAIN-SUFFIX,transfergo.co.uk
   - DOMAIN-SUFFIX,transfergo.com
   - DOMAIN-KEYWORD,transfergo
+  - DOMAIN-SUFFIX,twilio.com
+  - DOMAIN-KEYWORD,twilio
 #  - GEOIP,UK
