@@ -27,7 +27,7 @@ payload:
 
 
 # hotlink
-  - DOMAIN,epdg.epc.mnc012.mcc502.pub.3gppnetwork.org
+  - DOMAIN,epdg.epdg.epc.mnc012.mcc502.pub.3gppnetwork.org
   - IP-CIDR,202.75.146.0/16
 
 # three.co.uk
