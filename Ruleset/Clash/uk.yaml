@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,uphold.com
+  - DOMAIN-KEYWORD,uphold
   - DOMAIN-SUFFIX,taptapsend.com
   - DOMAIN-KEYWORD,taptapsend
   - DOMAIN-SUFFIX,trading212.com
