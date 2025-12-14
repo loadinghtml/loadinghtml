@@ -29,4 +29,6 @@ payload:
   - DOMAIN-KEYWORD,transfergo
   - DOMAIN-SUFFIX,twilio.com
   - DOMAIN-KEYWORD,twilio
+  - DOMAIN-SUFFIX,aws.amazon.com
+  - DOMAIN-KEYWORD,aws
 #  - GEOIP,UK
