@@ -30,3 +30,5 @@ payload:
   - DOMAIN-SUFFIX,pioneerex.org
   - DOMAIN-SUFFIX,pionex.com
   - DOMAIN-KEYWORD,pionex
+  - DOMAIN-SUFFIX,sumup.com
+  - DOMAIN-KEYWORD,sumup
