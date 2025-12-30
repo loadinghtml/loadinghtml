@@ -32,3 +32,5 @@ payload:
   - DOMAIN-KEYWORD,pionex
   - DOMAIN-SUFFIX,sumup.com
   - DOMAIN-KEYWORD,sumup
+  - DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-KEYWORD,kraken
