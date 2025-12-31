@@ -34,3 +34,5 @@ payload:
   - DOMAIN-KEYWORD,sumup
   - DOMAIN-SUFFIX,kraken.com
   - DOMAIN-KEYWORD,kraken
+  - DOMAIN-SUFFIX,tuyo.com
+  - DOMAIN-KEYWORD,tuyo
