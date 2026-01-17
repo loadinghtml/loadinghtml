@@ -38,3 +38,4 @@ payload:
   - DOMAIN-KEYWORD,tuyo
   - DOMAIN-SUFFIX,moonpay.com
   - DOMAIN-KEYWORD,moonpay
+  - DOMAIN-SUFFIX,x.place
