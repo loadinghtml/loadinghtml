@@ -9,3 +9,5 @@ payload:
   - DOMAIN-KEYWORD,kuda
   - DOMAIN-KEYWORD,gomoney
   - DOMAIN-KEYWORD,zoho
+  - DOMAIN-SUFFIX,solid.xyz
+  - DOMAIN-KEYWORD,solid
