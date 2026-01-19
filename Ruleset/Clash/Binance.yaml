@@ -1,7 +1,24 @@
 payload:
 
-  - DOMAIN-SUFFIX,pioneerex.org
+# Pionex 全球主站
   - DOMAIN-SUFFIX,pionex.com
+
+# 常用镜像与备用域名 (部分地区访问跳转用)
+  - DOMAIN-SUFFIX,pionex.cc
+  - DOMAIN-SUFFIX,pionex.co
+  - DOMAIN-SUFFIX,pionex.net
+  - DOMAIN-SUFFIX,pionex.org
+  - DOMAIN-SUFFIX,pionex.info
+  - DOMAIN-SUFFIX,pionex.biz
+
+# Pionex US (美国独立站，账户不互通)
+  - DOMAIN-SUFFIX,pionex.us
+
+# 技术支持与后台服务
+  - DOMAIN-SUFFIX,pionex.tech
+  - DOMAIN-SUFFIX,pionex.me
+
+# 关键词匹配 (防止漏网之鱼)
   - DOMAIN-KEYWORD,pionex
 
 # MEXC 主域名
