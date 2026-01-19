@@ -21,7 +21,6 @@ payload:
   - DOMAIN-SUFFIX,x.place
   - DOMAIN-SUFFIX,neverless.com
   - DOMAIN-KEYWORD,neverless
-  - DOMAIN-SUFFIX,bybit.eu
   - DOMAIN-SUFFIX,safepal.com
   - DOMAIN-SUFFIX,fiat24.com
   - DOMAIN-KEYWORD,fiat24
@@ -30,3 +29,7 @@ payload:
   - DOMAIN-KEYWORD,dtcpay
   - DOMAIN-SUFFIX,ether.fi
   - DOMAIN-KEYWORD,ether
+  - DOMAIN-SUFFIX,bybit.eu
+# 3. 核心数据服务 (所有分站共用，必填！)
+  - DOMAIN-SUFFIX,bytick.com            # K线数据
+  - DOMAIN-SUFFIX,bybit-cdn.com         # 静态资源
