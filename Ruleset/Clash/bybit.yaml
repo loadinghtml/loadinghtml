@@ -1,8 +1,23 @@
 payload:
-  - DOMAIN-SUFFIX,monitor-frontend-collector.a.bybit-aws.com
+# Bybit 主域名与各地区分站
   - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,bybit.net
+  - DOMAIN-SUFFIX,bybit.org
+  - DOMAIN-SUFFIX,bybit.co
+  - DOMAIN-SUFFIX,bybit.me
   - DOMAIN-SUFFIX,bybit.biz
-  - DOMAIN-SUFFIX,bybdc6.com
-  - DOMAIN-SUFFIX,byabcde.com
-  - DOMAIN-SUFFIX,byapps.net
-  - DOMAIN-SUFFIX,byd3c3.com
+  - DOMAIN-SUFFIX,bybit.info
+  - DOMAIN-SUFFIX,bybit.cc
+  - DOMAIN-SUFFIX,bybit.us       # 虽不支持交易，但域名存在
+  - DOMAIN-SUFFIX,bybit.nl       # 荷兰站
+  - DOMAIN-SUFFIX,bybit.kz       # 哈萨克斯坦站
+  - DOMAIN-SUFFIX,bybit-tr.com   # 土耳其站
+
+# 核心行情与API服务 (非常重要)
+  - DOMAIN-SUFFIX,bytick.com     # 核心行情数据推送域名，不加可能看不了K线
+  - DOMAIN-SUFFIX,bybitapi.com
+  - DOMAIN-SUFFIX,bybit-exchange.github.io  # 官方文档托管
+
+# 静态资源与短链接
+  - DOMAIN-SUFFIX,bybit-cdn.com
+  - DOMAIN-SUFFIX,by.bit         # 短链接服务
