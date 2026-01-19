@@ -5,35 +5,15 @@ payload:
   - DOMAIN-KEYWORD,tech26
   - DOMAIN-SUFFIX,bonify.de
   - DOMAIN-KEYWORD,bonify
-  - DOMAIN-SUFFIX,coinbase.com
-  - DOMAIN-KEYWORD,coinbase
   - DOMAIN-SUFFIX,westernunion.com
   - DOMAIN-KEYWORD,westernunion
-  - DOMAIN-SUFFIX,bybit.eu
-  - DOMAIN-KEYWORD,fiat24
-  - DOMAIN-SUFFIX,fiat24.com
-  - DOMAIN-KEYWORD,safepal
-  - DOMAIN-SUFFIX,safepal.com
   - DOMAIN-SUFFIX,myfin.bg
   - DOMAIN-KEYWORD,myfin
-  - DOMAIN-KEYWORD,bitkeep
-  - DOMAIN-SUFFIX,dtcpay.com
-  - DOMAIN-KEYWORD,dtcpay
-  - DOMAIN-SUFFIX,bitapi.vip
-  - DOMAIN-SUFFIX,bitkeep.com
-  - DOMAIN-KEYWORD,bitget
   - DOMAIN-SUFFIX,getcino.com
   - DOMAIN-KEYWORD,cino
   - DOMAIN-SUFFIX,wechat.com
-  - DOMAIN-SUFFIX,ether.fi
-  - DOMAIN-KEYWORD,ether
-  - DOMAIN-SUFFIX,pioneerex.org
-  - DOMAIN-SUFFIX,pionex.com
-  - DOMAIN-KEYWORD,pionex
   - DOMAIN-SUFFIX,sumup.com
   - DOMAIN-KEYWORD,sumup
-  - DOMAIN-SUFFIX,kraken.com
-  - DOMAIN-KEYWORD,kraken
   - DOMAIN-SUFFIX,tuyo.com
   - DOMAIN-KEYWORD,tuyo
   - DOMAIN-SUFFIX,moonpay.com
@@ -41,3 +21,15 @@ payload:
   - DOMAIN-SUFFIX,x.place
   - DOMAIN-SUFFIX,neverless.com
   - DOMAIN-KEYWORD,neverless
+  - DOMAIN-SUFFIX,bybit.eu
+  - DOMAIN-SUFFIX,safepal.com
+  - DOMAIN-SUFFIX,fiat24.com
+  - DOMAIN-KEYWORD,fiat24
+  - DOMAIN-KEYWORD,safepal
+  - DOMAIN-KEYWORD,dtcpay
+  - DOMAIN-SUFFIX,dtcpay.com
+  - DOMAIN-SUFFIX,bitapi.vip
+  - DOMAIN-SUFFIX,bitkeep.com
+  - DOMAIN-KEYWORD,bitget
+  - DOMAIN-SUFFIX,ether.fi
+  - DOMAIN-KEYWORD,ether
