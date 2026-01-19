@@ -5,119 +5,117 @@ payload:
   - DOMAIN-KEYWORD,pionex
 
 # MEXC 主域名
-- DOMAIN-SUFFIX,mexc.com
-- DOMAIN-SUFFIX,mexc.io
-- DOMAIN-SUFFIX,mexc.co
-- DOMAIN-SUFFIX,mexc.net
-- DOMAIN-SUFFIX,mexc.fm
+  - DOMAIN-SUFFIX,mexc.com
+  - DOMAIN-SUFFIX,mexc.io
+  - DOMAIN-SUFFIX,mexc.co
+  - DOMAIN-SUFFIX,mexc.net
+  - DOMAIN-SUFFIX,mexc.fm
 
 # 历史遗留域名 (旧品牌 MXC，部分老接口仍在使用)
-- DOMAIN-SUFFIX,mxc.com
-- DOMAIN-SUFFIX,mxc.co
-- DOMAIN-SUFFIX,mxc.io
+  - DOMAIN-SUFFIX,mxc.com
+  - DOMAIN-SUFFIX,mxc.co
+  - DOMAIN-SUFFIX,mxc.io
 
 # 静态资源与认证服务
-- DOMAIN-SUFFIX,mexc.link (常用于邀请链接)
-- DOMAIN-SUFFIX,mexc-cdn.com
+  - DOMAIN-SUFFIX,mexc.link (常用于邀请链接)
+  - DOMAIN-SUFFIX,mexc-cdn.com
 
 # 关键词匹配
-- DOMAIN-KEYWORD,mexc
-- DOMAIN-KEYWORD,mxc
+  - DOMAIN-KEYWORD,mexc
+  - DOMAIN-KEYWORD,mxc
 
 # Bitget 交易所官网与 API
-- DOMAIN-SUFFIX,bitget.com
-- DOMAIN-SUFFIX,bitget.io
-- DOMAIN-SUFFIX,bitget.site
-- DOMAIN-SUFFIX,bitget.life
-- DOMAIN-SUFFIX,bitget.com.cn
+  - DOMAIN-SUFFIX,bitget.com
+  - DOMAIN-SUFFIX,bitget.io
+  - DOMAIN-SUFFIX,bitget.site
+  - DOMAIN-SUFFIX,bitget.life
+  - DOMAIN-SUFFIX,bitget.com.cn
 
 # Bitget API 与 静态资源 (App 核心依赖)
-- DOMAIN-SUFFIX,bitgetapi.com
-- DOMAIN-SUFFIX,bitget-cdn.com
-- DOMAIN-SUFFIX,bitget-ws.com
+  - DOMAIN-SUFFIX,bitgetapi.com
+  - DOMAIN-SUFFIX,bitget-cdn.com
+  - DOMAIN-SUFFIX,bitget-ws.com
 
 # Bitget Wallet (原 BitKeep)
-- DOMAIN-SUFFIX,bitgetwallet.com
-- DOMAIN-SUFFIX,bitkeep.com
-- DOMAIN-SUFFIX,bitkeep.io
-- DOMAIN-SUFFIX,bitkeep.net
-- DOMAIN-SUFFIX,bitkeep.mobi
+  - DOMAIN-SUFFIX,bitgetwallet.com
+  - DOMAIN-SUFFIX,bitkeep.com
+  - DOMAIN-SUFFIX,bitkeep.io
+  - DOMAIN-SUFFIX,bitkeep.net
+  - DOMAIN-SUFFIX,bitkeep.mobi
 
 # 关键词匹配
-- DOMAIN-KEYWORD,bitget
-- DOMAIN-KEYWORD,bitkeep
+  - DOMAIN-KEYWORD,bitget
+  - DOMAIN-KEYWORD,bitkeep
 
 # Binance 主域名
-- DOMAIN-SUFFIX,binance.com
-- DOMAIN-SUFFIX,binance.us
-- DOMAIN-SUFFIX,binance.me
-- DOMAIN-SUFFIX,binance.cc
-- DOMAIN-SUFFIX,binance.im
-- DOMAIN-SUFFIX,binance.co
-- DOMAIN-SUFFIX,binance.net
-- DOMAIN-SUFFIX,binance.info
-- DOMAIN-SUFFIX,binance.cloud
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.us
+  - DOMAIN-SUFFIX,binance.me
+  - DOMAIN-SUFFIX,binance.cc
+  - DOMAIN-SUFFIX,binance.im
+  - DOMAIN-SUFFIX,binance.co
+  - DOMAIN-SUFFIX,binance.net
+  - DOMAIN-SUFFIX,binance.info
+  - DOMAIN-SUFFIX,binance.cloud
 
 # Binance 静态资源与API (App和网页加载必需)
-- DOMAIN-SUFFIX,bnbstatic.com
-- DOMAIN-SUFFIX,binanceapi.com
-- DOMAIN-SUFFIX,binancezh.com
-- DOMAIN-SUFFIX,binancezh.io
+  - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,binanceapi.com
+  - DOMAIN-SUFFIX,binancezh.com
+  - DOMAIN-SUFFIX,binancezh.io
 
 # 币安链/智能链相关
-- DOMAIN-SUFFIX,bnbchain.org
-- DOMAIN-SUFFIX,binance.org
+  - DOMAIN-SUFFIX,bnbchain.org
+  - DOMAIN-SUFFIX,binance.org
 
 # 关键词匹配 (防止漏网之鱼)
-- DOMAIN-KEYWORD,binance
+  - DOMAIN-KEYWORD,binance
 
 # OKX 主域名
-- DOMAIN-SUFFIX,okx.com
-- DOMAIN-SUFFIX,okx.net
-- DOMAIN-SUFFIX,okex.com
-- DOMAIN-SUFFIX,okex.co
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,okx.net
+  - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,okex.co
 
 # OKX 静态资源与辅助服务
-- DOMAIN-SUFFIX,okx-dns.com
-- DOMAIN-SUFFIX,okx-dns1.com
-- DOMAIN-SUFFIX,okx-dns2.com
+  - DOMAIN-SUFFIX,okx-dns.com
+  - DOMAIN-SUFFIX,okx-dns1.com
+  - DOMAIN-SUFFIX,okx-dns2.com
 
 # 关键词匹配
-- DOMAIN-KEYWORD,okx
-- DOMAIN-KEYWORD,okex
+  - DOMAIN-KEYWORD,okx
+  - DOMAIN-KEYWORD,okex
 
 # Coinbase 主域名
-- DOMAIN-SUFFIX,coinbase.com
-- DOMAIN-SUFFIX,coinbase.net
-- DOMAIN-SUFFIX,coinbase.io
+  - DOMAIN-SUFFIX,coinbase.com
+  - DOMAIN-SUFFIX,coinbase.net
+  - DOMAIN-SUFFIX,coinbase.io
 
 # 交易所专业版 (Pro)
-- DOMAIN-SUFFIX,coinbase.pro
+  - DOMAIN-SUFFIX,coinbase.pro
 
 # Coinbase Wallet 及短链接
-- DOMAIN-SUFFIX,cb.id
+  - DOMAIN-SUFFIX,cb.id
 
 # 关键词匹配
-- DOMAIN-KEYWORD,coinbase
+  - DOMAIN-KEYWORD,coinbase
 
 # Kraken 主域名
-- DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-SUFFIX,kraken.com
 
 # Kraken 期货与子服务
-- DOMAIN-SUFFIX,krakenfutures.com
-- DOMAIN-SUFFIX,kraken.to
+  - DOMAIN-SUFFIX,krakenfutures.com
+  - DOMAIN-SUFFIX,kraken.to
 
 # 关键词匹配
-- DOMAIN-KEYWORD,kraken
+  - DOMAIN-KEYWORD,kraken
 
 # MetaMask 官网与 API
-- DOMAIN-SUFFIX,metamask.io
-- DOMAIN-SUFFIX,metamask.com
+  - DOMAIN-SUFFIX,metamask.io
+  - DOMAIN-SUFFIX,metamask.com
 
 # 关键依赖 (如果不加这个，钱包可能无法刷新余额)
-- DOMAIN-SUFFIX,infura.io
+  - DOMAIN-SUFFIX,infura.io
 
 # 关键词匹配
-- DOMAIN-KEYWORD,metamask
-
-
+  - DOMAIN-KEYWORD,metamask
