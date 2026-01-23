@@ -3,6 +3,7 @@ payload:
   - DOMAIN-KEYWORD,t-mobile
   - DOMAIN-SUFFIX,csun.edu
   - DOMAIN-KEYWORD,csun
+  - PROCESS-NAME,Antigravity.exe
   - DOMAIN-SUFFIX,antigravity-unleash.goog
   - DOMAIN-SUFFIX,antigravity.google
   - DOMAIN-KEYWORD,antigravity
