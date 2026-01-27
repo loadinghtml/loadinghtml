@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,ypt.com
   - DOMAIN-KEYWORD,ypt
+  - DOMAIN-SUFFIX,simple.app
