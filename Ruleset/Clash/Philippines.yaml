@@ -2,3 +2,5 @@ payload:
   - DOMAIN-SUFFIX,ypt.com
   - DOMAIN-KEYWORD,ypt
   - DOMAIN-SUFFIX,simple.app
+  - DOMAIN-SUFFIX,redotpay.com
+  - DOMAIN-KEYWORD,redotpay
