@@ -33,4 +33,6 @@ payload:
   - DOMAIN-KEYWORD,aws
   - DOMAIN-SUFFIX,remitly.io
   - DOMAIN-KEYWORD,remitly
+  - DOMAIN-SUFFIX,lemfi.com
+  - DOMAIN-KEYWORD,lemfi
 #  - GEOIP,UK
