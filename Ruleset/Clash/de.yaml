@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,bunq.com
+  - DOMAIN-KEYWORD,bunq
   - DOMAIN-SUFFIX,plasma.to
   - DOMAIN-KEYWORD,plasma
   - DOMAIN-SUFFIX,n26.com
