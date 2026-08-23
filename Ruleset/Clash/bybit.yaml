@@ -21,4 +21,6 @@ payload:
 # 静态资源与短链接
   - DOMAIN-SUFFIX,bybit-cdn.com
   - DOMAIN-SUFFIX,by.bit         # 短链接服务
+  
   - DOMAIN-SUFFIX,riamoneytransfer.com
+  - DOMAIN-KEYWORD,riamoneytransfer
