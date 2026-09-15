@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,kastapi.com
+  - DOMAIN-KEYWORD,kast
   - DOMAIN-SUFFIX,bunq.com
   - DOMAIN-KEYWORD,bunq
   - DOMAIN-SUFFIX,plasma.to
