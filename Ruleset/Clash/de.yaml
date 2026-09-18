@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,pulsar.money
+  - DOMAIN-KEYWORD,pulsar
   - DOMAIN-SUFFIX,kastapi.com
   - DOMAIN-KEYWORD,kast
   - DOMAIN-SUFFIX,bunq.com
